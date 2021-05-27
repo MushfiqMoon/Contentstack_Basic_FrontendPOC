@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "_version": 4,
+      "locale": "en-us",
+      "uid": "blt62774f6bbf7bc8ce",
+      "ACL": {},
+      "_in_progress": false,
+      "created_at": "2021-05-26T20:09:01.941Z",
+      "created_by": "blt6f4c5fd431034178",
+      "date": "2021-01-01",
+      "group": {
+        "file": {
+          "parent_uid": null,
+          "uid": "bltf2804f2a134703af",
+          "created_by": "blt6f4c5fd431034178",
+          "updated_by": "blt6f4c5fd431034178",
+          "created_at": "2021-05-26T20:07:04.453Z",
+          "updated_at": "2021-05-26T20:07:04.453Z",
+          "content_type": "image/png",
+          "file_size": "6044",
+          "filename": "images.png",
+          "title": "images.png",
+          "ACL": [],
+          "_version": 1,
+          "is_dir": false,
+          "tags": [],
+          "publish_details": {
+            "environment": "blt9cbe6b9aa987be52",
+            "locale": "en-us",
+            "time": "2021-05-26T20:09:18.510Z",
+            "user": "blt6f4c5fd431034178"
+          },
+          "url": "https://images.contentstack.io/v3/assets/blt1ffa4652a21e7445/bltf2804f2a134703af/60aeaa680a03095ac9587cde/images.png"
+        },
+        "single_line": "Margena Akhter",
+        "address": "Bangladesh",
+        "skill": "HTML, CSS, JavaScript",
+        "rating": "5 Star"
+      },
+      "rich_text_editor": "<h2>What is Lorem Ipsum?</h2>\n<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
+      "single_line": "employ happiness generates client sucess",
+      "tags": [],
+      "title": "Margena Akhter Bio",
+      "updated_at": "2021-05-26T21:28:32.185Z",
+      "updated_by": "blt6f4c5fd431034178",
+      "url": "/margena",
+      "publish_details": {
+        "environment": "blt9cbe6b9aa987be52",
+        "locale": "en-us",
+        "time": "2021-05-27T06:39:10.870Z",
+        "user": "blt6f4c5fd431034178"
+      }
+    }
+  ]
+}
